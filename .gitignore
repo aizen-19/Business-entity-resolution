@@ -1,0 +1,28 @@
+# Datasets (large files, not tracked in git)
+dataset/
+dataset/*
+
+# Outputs & Parquet Caches
+output/
+output/*
+
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Environment / IDE
+.venv/
+venv/
+env/
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db

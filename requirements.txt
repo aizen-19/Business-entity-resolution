@@ -1,0 +1,6 @@
+pandas>=2.2.0
+numpy>=1.26.0
+rapidfuzz>=3.9.0
+pyarrow>=15.0.0
+matplotlib>=3.8.0
+pytest>=8.0.0
